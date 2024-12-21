@@ -65,7 +65,7 @@ endmodule
 
 Developed by:GERIUS G
 
-RegisterNumber:24900086*/
+RegisterNumber:24900086
 
 
 **RTL realization**
