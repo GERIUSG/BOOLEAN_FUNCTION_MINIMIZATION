@@ -34,6 +34,16 @@ Hardware – PCs, Cyclone II , USB flasher
 
 5.	For different input combinations generate the timing diagram.
 
+**Boolean Minimizatation**	
+
+F1
+
+![Screenshot 2024-12-27 133102](https://github.com/user-attachments/assets/9134481b-e2bf-41d2-936e-5022555f2943)
+
+F2
+
+![Screenshot 2024-12-27 133112](https://github.com/user-attachments/assets/0fc64ecc-bd66-4024-be32-195ef5fec5a3)
+
 
 **Program:**
 
